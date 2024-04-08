@@ -3,7 +3,7 @@ name: Julian McAuley
 position: Professor
 organization: University of California San Diego (UCSD)
 personal-page: https://cseweb.ucsd.edu/~jmcauley/
-order: 1
+order: 0
 img: assets/img/julian_mcauley.png
 content-speak: TBD
 bio: <b>Dr. Julian McAuley</b> has been a professor in University of California San Diego (UCSD) since 2014. Previously he was a postdoctoral scholar at Stanford University after receiving his PhD from the Australian National University in 2011. 
