@@ -1,5 +1,5 @@
 ---
-name: Minmin-Chen
+name: Minmin Chen
 organization: Google
 personal-page: https://mchen24.github.io/
 order: 1
