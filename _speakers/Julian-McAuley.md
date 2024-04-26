@@ -1,6 +1,5 @@
 ---
 name: Julian McAuley
-position: Professor
 organization: University of California San Diego (UCSD)
 personal-page: https://cseweb.ucsd.edu/~jmcauley/
 order: 0
