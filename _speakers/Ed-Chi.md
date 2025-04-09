@@ -3,7 +3,7 @@ name: Ed H. Chi
 organization: Google Deepmind
 personal-page: https://www.edchi.net/
 order: 0
-img: assets/img/edchi.png
+img: assets/img/edchi.jpeg
 bio: 
 # <b>Dr. Ed H. Chi</b> 
 # content-title:  TBD
