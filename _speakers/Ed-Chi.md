@@ -1,5 +1,5 @@
 ---
-name: Dr. Ed H. Chi
+name: Ed H. Chi
 organization: Google Deepmind
 personal-page: https://www.edchi.net/
 order: 0
