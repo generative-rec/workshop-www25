@@ -1,6 +1,6 @@
 ---
 name: Shiyao Wang
-organization: Alibaba Group
+organization: Kuaishou
 personal-page: https://wangshy31.github.io/
 order: 2
 img: assets/img/wangshy2.jpg
